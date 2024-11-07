@@ -1,0 +1,47 @@
+/* CoursePage.css
+.course-page-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.product-card {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.product-name {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.product-description {
+  font-size: 1rem;
+  color: #666;
+  margin-top: 10px;
+  line-height: 1.4;
+} */
+
+/* Overall container styles */
